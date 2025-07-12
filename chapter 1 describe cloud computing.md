@@ -18,4 +18,7 @@
     3. security and governance
     4. manageability 
 3. describe cloud service types
-   1. Infra-as-a-Service
+   1. Infra-as-a-Service: hardware, you configure your own VM
+   2. Platform-as-a-Service: hardware + OS + software (middleware), you only deploy the application
+   3. Software-as-a-Service: software is rented to you
+   4. use cases for each cloud service type
