@@ -3,3 +3,4 @@
    2. availability zones
    3. azure datacenters
    4. azure resources and resource groups
+   5. azure subscriptions
